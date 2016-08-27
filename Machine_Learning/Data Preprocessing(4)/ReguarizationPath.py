@@ -1,11 +1,12 @@
-
+### This program presents the pictorial depiction of the impact on the weights of the features based on the different values of
+### regularilization parameters. In this case we used Logistic regression.
 import pandas as pd
 import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
-import CommonFunctions.commonvariables as common
+import Machine_Learning.CommonFunctions.commonvariables as common
 import sys
 
 colors=common.colors
@@ -19,6 +20,8 @@ fig=plt.figure()
 ax=plt.subplot(111)
 
 
+## Execute the Logistic Regression  using L1 regularization (lasso) with different Regularization factor.
+## In this C is the factor. Penalty =l1 means L1 regularization.
 for c in np.arange(-4,6):
     lr=LogisticRegression(penalty='l1',C=10**c,random_state=0)
     lr.fit(x_train_std,y_train)

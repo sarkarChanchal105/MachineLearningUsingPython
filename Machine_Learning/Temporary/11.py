@@ -20,6 +20,8 @@ def find_k(array,  k1):
 
 
 array=[10, 3, 7 ,-1, 18, 29, -7, 4, 2]
-print (array)
+#print (array)
 
-print (find_k(array,15))
+#print (find_k(array,15))
+
+print (tuple(range(10)))

@@ -5,7 +5,9 @@ import numpy as np
 from sklearn.cross_validation import train_test_split
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.linear_model import LogisticRegression
-import CommonFunctions.commonvariables as common
+import Machine_Learning.CommonFunctions.commonvariables as common
+
+
 
 df_wine=common.df_wine
 
