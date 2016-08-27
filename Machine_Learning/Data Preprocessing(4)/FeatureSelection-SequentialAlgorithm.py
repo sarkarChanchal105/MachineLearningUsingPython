@@ -34,19 +34,23 @@ class SBS():
         score = self._calc_score(x_train_std,y_train,x_test_std,y_test,self.indices_) # get the score of the classifier with full features
         self.scores_=[score] ## Store the score in this array
 
-        ### for each subset of feature run the classifier algorithm and get the scores.
+        ### for each subset of feature run the classifier algorithm and get the scores. In each iteration exclude one field from the feature space and run
+        ### the classifier and scoring and keep the best score for each subset of features.
         while dim > self.k_features:
             scores =[]
             subsets =[]
             for p in combinations(self.indices_,r=dim-1):
+
                 score=self._calc_score(x_train_std,y_train,x_test_std,y_test,p)
                 scores.append(score)
                 subsets.append(p)
+                #print ("Sets: {} score : {}".format(p,score))
             best = np.argmax(scores)
             self.indices_=subsets[best]
             self.subsets_.append(self.indices_)
             dim -= 1
-
+            # import sys
+            # sys.exit()
             self.scores_.append(scores[best])
         self.k_score =self.scores_
         return self
@@ -77,8 +81,21 @@ plt.xlabel('Number of features')
 plt.grid()
 plt.show()
 
-
 ## get the feature that generates the highest accuracy
 k5 = list(sbs.subsets_[np.argmax(sbs.scores_)+1])
+print ("Accurancy Score of the selected feature :",sbs.scores_[np.argmax(sbs.scores_)])
 print(df_wine.columns[1:][k5])
 
+## evalue the performance of the classifier on the original training set and test set
+print('\n',"Evaluate the peformance of the classifier with all features")
+knn.fit(x_train_std,y_train)
+print ("Training Accuracy :",knn.score(x_train_std,y_train))
+print ("Test Accuracy :",knn.score(x_test_std,y_test))
+
+
+
+## Now build the model with feature seubset that yeilded the best results.
+print('\n',"Evaluate the peformance of the classifier with subset features :")
+knn.fit(x_train_std[:,k5],y_train)
+print ("Training Accuracy : ", knn.score(x_train_std[:,k5],y_train))
+print ("Test Accuracy : ", knn.score(x_test_std[:,k5],y_test))
