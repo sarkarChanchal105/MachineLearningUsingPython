@@ -3,7 +3,7 @@ from sklearn import datasets
 from sklearn.cross_validation import train_test_split
 from sklearn.preprocessing import StandardScaler
 from sklearn.svm import SVC
-from CommonFunctions import  PlotDecisionRegion
+from Machine_Learning.CommonFunctions import  PlotDecisionRegion
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
@@ -30,7 +30,7 @@ x_train_std=sc.transform(x_train)
 x_test_std=sc.transform(x_test)
 
 svm=SVC(kernel='linear',C=0.9, random_state=0)
-svm=SVC(kernel='rbf',C=1000.0, gamma=0.02, random_state=0)
+#svm=SVC(kernel='rbf',C=1000.0, gamma=0.02, random_state=0)
 
 svm.fit(x_train_std,y_train)
 

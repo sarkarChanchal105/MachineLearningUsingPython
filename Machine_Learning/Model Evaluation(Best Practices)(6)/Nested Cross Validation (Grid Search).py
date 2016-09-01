@@ -1,5 +1,6 @@
 from sklearn.grid_search import GridSearchCV
 from sklearn.svm import  SVC
+from sklearn.tree import DecisionTreeClassifier
 import matplotlib.pyplot as plt
 from sklearn.learning_curve import learning_curve, validation_curve
 from sklearn.pipeline import Pipeline
@@ -33,17 +34,18 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=1)
 pipeline_lr = Pipeline([('scl',StandardScaler()),('clf',SVC(random_state=0))])
 
 ## define and execute the Grid Search algorithm to find the best parameter
-gs= GridSearchCV(estimator=pipeline_lr,param_grid=param_grid,scoring='accuracy',cv=10,n_jobs=1)
-gs.fit(x_train,y_train
-       )
-print("Best Scopre :{} Best Parameters :{} ".format(gs.best_score_,gs.best_params_))
+gs= GridSearchCV(estimator=pipeline_lr,param_grid=param_grid,scoring='accuracy',cv=2,n_jobs=1)
+
+scores=cross_val_score(gs,x_train,y_train,scoring='accuracy',cv=5)
+
+print ("CV Accuracy %0.3f +/- %0.3f " % (np.mean(scores),np.std(scores)) )
 
 
-## use the best parameters to run the model on test data
+### use grid search on Decision Tree Classifier
+gs=GridSearchCV(estimator=DecisionTreeClassifier(random_state=0), param_grid=[{'max_depth':[1,2,3,4,5,6,7,None]}],scoring='accuracy',cv=2)
 
-clf = gs.best_estimator_
-clf.fit(x_train,y_train)
-print("Test Accuracy : %.3f" % clf.score(x_test,y_test))
+scores=cross_val_score(gs,x_train,y_train,scoring='accuracy',cv=5)
 
+print ("CV Accuracy %0.3f +/- %0.3f " % (np.mean(scores),np.std(scores)) )
 
 
