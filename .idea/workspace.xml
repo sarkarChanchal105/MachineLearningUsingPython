@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fcbc967-b20c-4930-86f5-981859a18491" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation (Grid Search).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/DoubleLinkedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/SingleLinkedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Is it Leap Year.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/reverseString.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Validation.py" afterPath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Cross Validation (K-Fold).py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine - Linear.py" afterPath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine - Linear.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine -Non-Linear.py" afterPath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine -Non-Linear.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Regularization.py" afterPath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Regularization.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/FineTuneMachineLearning(Grid Search).py" afterPath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/FineTuneMachineLearning(Grid Search).py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" afterPath="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" afterPath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
     </list>
     <ignored path="MachineLearningUsingPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +28,10 @@
         <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation (Grid Search).py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
-              <folding />
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,9 +39,45 @@
       <file leaf-file-name="Plot Receiver Operating Characteristics (ROC).py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6803653">
+              <caret line="74" column="73" selection-start-line="74" selection-start-column="73" selection-end-line="74" selection-end-column="73" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commonvariables.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Handling Categorical Data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="roc_temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +106,6 @@
         <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/FeatureSelection- Randomforest.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/Naive-Bayes.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/Need To Study" />
-        <option value="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Validation.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis. using Learning Curves.py" />
@@ -93,6 +120,8 @@
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/printElementOfLinkedList.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/SingleLinkedList.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/DoubleLinkedList.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
       </list>
     </option>
@@ -179,6 +208,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Data Preprocessing(4)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CommonFunctions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -186,58 +251,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.DoubleLinkedList">
-    <configuration default="false" name="reverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/reverseString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Is it Leap Year" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Is it Leap Year.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="printElementOfLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/printElementOfLinkedList.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Plot Receiver Operating Characteristics (ROC)">
     <configuration default="false" name="DoubleLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,19 +269,70 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="SingleLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Plot Receiver Operating Characteristics (ROC)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/SingleLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Handling Categorical Data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearningUsingPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="roc_temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearningUsingPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="commonvariables" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/CommonFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MachineLearningUsingPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -395,19 +460,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.reverseString" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Is it Leap Year" />
-      <item index="2" class="java.lang.String" itemvalue="Python.printElementOfLinkedList" />
-      <item index="3" class="java.lang.String" itemvalue="Python.DoubleLinkedList" />
-      <item index="4" class="java.lang.String" itemvalue="Python.SingleLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="Python.DoubleLinkedList" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Plot Receiver Operating Characteristics (ROC)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Handling Categorical Data" />
+      <item index="3" class="java.lang.String" itemvalue="Python.roc_temp" />
+      <item index="4" class="java.lang.String" itemvalue="Python.commonvariables" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.DoubleLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="Python.SingleLinkedList" />
-        <item index="2" class="java.lang.String" itemvalue="Python.printElementOfLinkedList" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Is it Leap Year" />
-        <item index="4" class="java.lang.String" itemvalue="Python.reverseString" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Plot Receiver Operating Characteristics (ROC)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.commonvariables" />
+        <item index="2" class="java.lang.String" itemvalue="Python.roc_temp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Handling Categorical Data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.DoubleLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +487,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24245423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2454448" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49517685" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -597,13 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9163347">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning/Dimensionality Reduction Techniques(5)/PrincipalComponentAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.6175299">
@@ -643,13 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7962648">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -752,19 +803,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation (Grid Search).py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
-          <folding />
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.6803653">
+          <caret line="74" column="73" selection-start-line="74" selection-start-column="73" selection-end-line="74" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

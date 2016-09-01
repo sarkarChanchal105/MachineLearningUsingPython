@@ -5,6 +5,8 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 
+from sklearn.preprocessing import LabelEncoder
+
 colors=['blue','green','red','cyan','magenta','yellow','black','pink','lightgreen','lightblue','gray','indigo','orange']
 
 ## Get the win sample data from UCI portal to pandas data frame
@@ -38,5 +40,8 @@ x_test_std=sc.fit_transform(x_test)
 
 
 ### Preprocrsing for Breast Cancer
+le= LabelEncoder()
 x_breast=df_breast.loc[:,2:].values
 y_breast=df_breast.loc[:,1].values
+y_breast=le.fit_transform(y_breast) # Encoding the categorical values
+#print (y_breast)
