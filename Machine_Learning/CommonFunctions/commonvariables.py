@@ -5,10 +5,14 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 
+from sklearn.preprocessing import LabelEncoder
+
 colors=['blue','green','red','cyan','magenta','yellow','black','pink','lightgreen','lightblue','gray','indigo','orange']
 
 ## Get the win sample data from UCI portal to pandas data frame
 df_wine=pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data',header=None)
+df_breast=pd.read_csv('https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data',header=None)
+
 
 ## Define the columns of the Data Frame
 df_wine.columns=['Class Label','Alcohol','Malic Acid','Ash',
@@ -31,3 +35,13 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.3,random_state=0)
 sc=StandardScaler()
 x_train_std=sc.fit_transform(x_train)
 x_test_std=sc.fit_transform(x_test)
+
+
+
+
+### Preprocrsing for Breast Cancer
+le= LabelEncoder()
+x_breast=df_breast.loc[:,2:].values
+y_breast=df_breast.loc[:,1].values
+y_breast=le.fit_transform(y_breast) # Encoding the categorical values
+#print (y_breast)
