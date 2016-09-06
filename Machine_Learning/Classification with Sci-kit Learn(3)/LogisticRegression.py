@@ -4,7 +4,7 @@ from sklearn import datasets
 from sklearn.cross_validation import train_test_split
 from sklearn.preprocessing import StandardScaler
 #from  Machine_Learning.CommonFunctions import  PlotDecisionRegion
-from CommonFunctions import PlotDecisionRegion
+from Machine_Learning.CommonFunctions import PlotDecisionRegion
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
