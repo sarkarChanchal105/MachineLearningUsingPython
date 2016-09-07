@@ -24,4 +24,9 @@ array=[10, 3, 7 ,-1, 18, 29, -7, 4, 2]
 
 #print (find_k(array,15))
 
-print (tuple(range(10)))
+#print (tuple(range(10)))
+
+
+array1=[i for i in range (1000)]
+print (array1)
+

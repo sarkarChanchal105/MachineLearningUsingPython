@@ -43,8 +43,9 @@ plt.legend(loc='upper left')
 
 plt.show()
 
+print (x)
 y_predict =forest.predict(x)
-
+print(y_predict)
 print ("Miss classified samples are %d" %(y_predict!=y).sum() )
 
 #print (y_predict[2])

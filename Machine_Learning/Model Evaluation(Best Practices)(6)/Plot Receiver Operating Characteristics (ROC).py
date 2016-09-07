@@ -13,7 +13,6 @@ import numpy as np
 from scipy import interp
 from sklearn.metrics import roc_curve, auc , roc_auc_score, accuracy_score
 
-
 x=common.x_breast
 y=common.y_breast
 
@@ -39,6 +38,11 @@ mean_tpr=0
 mean_fpr=np.linspace(0,1,100)
 all_tpr=[]
 
+for i, (train,test) in enumerate(cv):
+        print ("i= {} max_train= {} max_test {}".format(i,max(train),max(test)))
+        #print ("train {} test{}".format(train,test))
+        print (x_train[train])
+        import sys; sys.exit()
 
 ## for each fold excute the train and test  and calculate true positive, false postive rate.
 for i, (train,test) in enumerate(cv):

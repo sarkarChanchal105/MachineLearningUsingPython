@@ -7,6 +7,7 @@ df=pd.DataFrame([
     ['green','M','10.1','Class1'],
     ['red','L','13.5','Class2'],
     ['blue','XL','15.3','Class3'],
+    ['type 2','XL','15.3','Class3'],
 ])
 ## Define the columns of the Data Frame
 df.columns=['color','size','price','classlabel']
@@ -33,9 +34,12 @@ print (df)
 print ("PERFORM ONE-HOT CODING ON NOMINAL FEATURES")
 x=df.values
 color_le=LabelEncoder()
+print ('aaaaa',x[:,0])
+print("Before OHE "+'\n',x)
+
 x[:,0]=color_le.fit_transform(x[:,0])
 ohe= OneHotEncoder(categorical_features=[0])
-x=ohe.fit_transform(x).toarray()
-print (x)
+x=ohe.fit_transform(x).oarray()
+print ("aftrer OHE"+'\n',x)
 
 print ("Generate Dummy columns using One-Hot Coding",'\n',pd.get_dummies(df[['color','size','price']]))
