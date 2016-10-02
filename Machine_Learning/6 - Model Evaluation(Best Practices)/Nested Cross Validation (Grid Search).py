@@ -46,6 +46,6 @@ gs=GridSearchCV(estimator=DecisionTreeClassifier(random_state=0), param_grid=[{'
 
 scores=cross_val_score(gs,x_train,y_train,scoring='accuracy',cv=5)
 
-print ("CV Accuracy %0.3f +/- %0.3f " % (np.mean(scores),np.std(scores)) )
+#print ("CV Accuracy %0.3f +/- %0.3f " % (np.mean(scores),np.std(scores)) )
 
 

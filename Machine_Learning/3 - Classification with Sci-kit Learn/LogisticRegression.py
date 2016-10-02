@@ -8,6 +8,7 @@ from Machine_Learning.CommonFunctions import PlotDecisionRegion
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
+import pandas as pd
 
 lr=LogisticRegression(C=1000.0,random_state=0)
 
@@ -30,22 +31,28 @@ y_combined=np.hstack((y_train,y_test))
 
 lr.fit(x_train_std,y_train)
 
-print (lr.coef_)
+#print (lr.coef_)
 
-print (x_test,lr.predict(x_test_std))
+#print (x_test,lr.predict(x_test_std))
 
 plt.xlabel('Petal Length (Standardized)')
 
 plt.ylabel('Petal width (Standardized)')
 
-PlotDecisionRegion.plot_decision_regions(x_combined,y_combined,classifier=lr,test_idx=range(105,150))
+#PlotDecisionRegion.plot_decision_regions(x_combined,y_combined,classifier=lr,test_idx=range(105,150))
 
 
 
 y_pred = lr.predict(x_test_std)
+##print (x_test_std[0])
+print(lr.predict_proba(x_test_std)[0])
+
+output= pd.DataFrame(lr.predict_proba(x_test_std),columns=[np.unique(y_train)])
+
+print(output)
 
 # PlotDecisionRegion.plot_decision_regions(x_test_std,y_test,classifier=lr,test_idx=range(0,45))
 # print ("Miss Classified in Test Samples %d" %(y_pred!=y_test).sum() )
-plt.show()
+#plt.show()
 
 #print (lr.predict_proba(x_test_std[0,:]))

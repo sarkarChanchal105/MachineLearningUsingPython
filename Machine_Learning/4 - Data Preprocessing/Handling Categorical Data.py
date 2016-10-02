@@ -39,7 +39,7 @@ print("Before OHE "+'\n',x)
 
 x[:,0]=color_le.fit_transform(x[:,0])
 ohe= OneHotEncoder(categorical_features=[0])
-x=ohe.fit_transform(x).oarray()
+x=ohe.fit_transform(x).toarray()
 print ("aftrer OHE"+'\n',x)
 
 print ("Generate Dummy columns using One-Hot Coding",'\n',pd.get_dummies(df[['color','size','price']]))

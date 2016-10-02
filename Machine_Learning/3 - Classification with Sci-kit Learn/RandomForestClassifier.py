@@ -27,7 +27,7 @@ sc.fit(x_train)
 x_train_std = sc.transform(x_train)
 x_test_std = sc.transform(x_test)
 
-forest = RandomForestClassifier(criterion='entropy',n_estimators=10,random_state=1,n_jobs=2)
+forest = RandomForestClassifier(criterion='entropy',n_estimators=1000000,random_state=1,n_jobs=2)
 
 forest.fit(x_train,y_train)
 x_combined = np.vstack((x_train,x_test))

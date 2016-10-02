@@ -12,7 +12,7 @@ y_train=common.y_train
 y_test=common.y_test
 
 feat_labels= df_wine.columns[1:] ## Get thr column headers of the dataset.
-forest = RandomForestClassifier(n_estimators=10000000,random_state=0,n_jobs=1) ## Create a Random Forest Classifier object
+forest = RandomForestClassifier(n_estimators=1000,random_state=0,n_jobs=1) ## Create a Random Forest Classifier object
 forest.fit(x_train,y_train) ## Fit the data into the model
 importances=forest.feature_importances_ ## get the feature importance
 # print("Original ",np.argsort(importances))
