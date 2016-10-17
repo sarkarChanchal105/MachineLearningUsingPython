@@ -17,3 +17,11 @@ def first_non_repeating(array):
 
 
 first_non_repeating(array)
+
+
+s_array=[a for a in array]
+
+print (s_array)
+
+dict={}
+

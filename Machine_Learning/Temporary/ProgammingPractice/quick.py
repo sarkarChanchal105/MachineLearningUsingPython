@@ -18,6 +18,7 @@ def quicksort(array):
                 greater.append(x)
         return quicksort(greater)+equl+quicksort(less)
     else:
+        print (array)
         return array
 
 print ("Ouput of Quick Sort {}".format(quicksort(array)))

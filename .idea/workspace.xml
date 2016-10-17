@@ -2,63 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fcbc967-b20c-4930-86f5-981859a18491" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Basic Classification Techniques(2)/ClassifyIrisDataSet-Adaline_SGD.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Basic Classification Techniques(2)/ClassifyIrisDataSet-Adline.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Basic Classification Techniques(2)/ClassifyIrisDataSet-Perceptron.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Basic Classification Techniques(2)/iris" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Basic Classification Techniques(2)/iris.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/DecisionTree.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/DecisionTree_Ginni-vs-Entropy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/K-NearestNeighbor.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/LogisticRegression.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/Naive-Bayes.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/RandomForestClassifier.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine - Linear.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine -Non-Linear.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/skLearn.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/tree.dot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/FeatureSelection- Randomforest.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/FeatureSelection-SequentialAlgorithm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/PartitioningDataset_train_test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/ReguarizationPath.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Regularization.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/missing_value_imputation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/usage_of_pandas.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Dimensionality Reduction Techniques(5)/PrincipalComponentAnalysis -SKlearn..py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Dimensionality Reduction Techniques(5)/PrincipalComponentAnalysis.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis. using Learning Curves.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis. using Validation Curves.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Cross Validation (K-Fold).py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/FineTuneMachineLearning(Grid Search).py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation (Grid Search).py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/gbm.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Installation and Confugation/How to Install XGBOOST (for windows)" afterPath="$PROJECT_DIR$/Installation and Confugation/How to Install XGBOOST (for windows)" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/11.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/11.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/.gitattributes" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/.gitignore" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/2-3_tree.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/2-3_tree.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/BinarySearchTree.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/BinarySearchTree.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/BinaryToDecimal.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/BinaryToDecimal.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/DepthFirstSearch.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/DepthFirstSearch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/DoublyLinkedList.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/DoublyLinkedList.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/HashMap.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/HashMap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/HexToDec.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/HexToDec.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/LinkedLists.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/LinkedLists.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/MaxHeap.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/MaxHeap.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/Primes.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/Primes.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/README.md" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/SortingAlgorithms.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/SortingAlgorithms.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/TempConversion.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/TempConversion.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/bfs.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/bfs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/file_ops.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/file_ops.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/gcf.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/gcf.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/graph_adjacency-list.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/graph_adjacency-list.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/graph_adjacency-matrix.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/graph_adjacency-matrix.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/lcm.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/lcm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/11.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/BirthRecords" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/BirthRecords1901" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/Lesson -1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/Lesson -2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/Need To Study" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/Product Price App Style Speed_txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/Samples.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/class and static.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/display.log" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/8 - Applying Machine Learning to Sentiment Analysis/transfm_words_feature_vector.py" afterPath="$PROJECT_DIR$/Machine_Learning/8 - Applying Machine Learning to Sentiment Analysis/transfm_words_feature_vector.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/FirstNonRepeatingChar.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/FirstNonRepeatingChar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py" afterPath="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py" />
     </list>
     <ignored path="MachineLearningUsingPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,7 +41,108 @@
     <favorites_list name="MachineLearningUsingPython" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="usage_of_lambda.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/usage_of_lambda.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Making Anagrams.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Making Anagrams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autocorrect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LCM of Series of Numbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="two_joggers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/two_joggers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RansomNote.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RansomNote.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Binary_Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Binary_Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longest_palindrone.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RomanNumericEncoder.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RomanNumericEncoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.04474273">
+              <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Tree/BinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="51" column="26" selection-start-line="47" selection-start-column="0" selection-end-line="51" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,45 +157,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/ReguarizationPath.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/SequentialFeatureSelectionAlgorithm.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Dimensionality Reduction Techniques(5)/PrincipalComponentAnalysis.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/FeatureSelection- Randomforest.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/Naive-Bayes.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/Need To Study" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Validation.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis. using Learning Curves.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Bias-vs-Variance Analysis. using Validation Curves.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine - Linear.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/SupportVectorMachine -Non-Linear.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/FineTuneMachineLearning(Grid Search).py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Regularization.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/reverseString.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Is it Leap Year.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/printElementOfLinkedList.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/SingleLinkedList.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/DoubleLinkedList.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/roc_temp.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/usage_of_pandas.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/LogisticRegression.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Classification with Sci-kit Learn(3)/RandomForestClassifier.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/gbm.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py" />
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/11.py" />
         <option value="$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Random_Forest.py" />
         <option value="$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Extreme_Boosting.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/Two Sum.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/zigZag" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/ZigZag Conversion.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/practice.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/insertion_sort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/merge_Sort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/stringReverse.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/calling_function.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/Bubble_Sort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/Sorting/Permutation.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/maxElementOfaList.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/duplicate_count.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/spinwords.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/DataStructures_Algorithms/multiples_3_5.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/disemvowel.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/dna_stand.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/is_square.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Your order, please.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/CreditCardMask.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Bubble_Sort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/merge_Sort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/quickSort.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/CodrWars/DiD I Finish My Sudoku.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/CodrWars/Good vs Evil.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/8 - Applying Machine Learning to Sentiment Analysis/transfm_words_feature_vector.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/temp/encoding.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/max_in_array.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/minimum_diff.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/Palindrom.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/Reverse String.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Tree/BinaryTree.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Most recurring element in a list.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/FirstNonRepeatingChar.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/get_products_of_all_ints_except_at_index.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/traveserMatrix.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Most recurring element in a list.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/usage_of_lambda.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Making Anagrams.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/two_joggers.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RansomNote.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RomanNumericEncoder.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="2066" />
-    <option name="height" value="1122" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -158,6 +242,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,11 +285,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Kaggle-Competitions" />
+              <option name="myItemId" value="Machine_Learning" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Predicting Red Hat Business Value" />
+              <option name="myItemId" value="Temporary" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -218,100 +303,216 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Installation and Confugation" />
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Temporary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgammingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Temporary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ProgammingPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Facebook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Temporary" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CodrWars" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5 - Dimensionality Reduction Techniques" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine_Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="4 - Data Preprocessing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kaggle-Competitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Predicting Red Hat Business Value" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Machine_Learning/Temporary" />
   </component>
-  <component name="RunManager" selected="Python.11">
-    <configuration default="false" name="Handling Categorical Data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Chanchal\MachineLearningUsingPython\Machine_Learning\Temporary\ProgammingPractice\Facebook" />
+      <recent name="C:\Chanchal\MachineLearningUsingPython\Machine_Learning\Temporary\General Programs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RomanNumericEncoder">
+    <configuration default="false" name="autocorrect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Data Preprocessing(4)/Handling Categorical Data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="gbm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="LCM of Series of Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/gbm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Nested Cross Validation (Grid Search)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Binary_Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Nested Cross Validation (Grid Search).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Binary_Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Plot Receiver Operating Characteristics (ROC)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="longest_palindrone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Model Evaluation(Best Practices)(6)/Plot Receiver Operating Characteristics (ROC).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="RomanNumericEncoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="MachineLearningUsingPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RomanNumericEncoder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -439,19 +640,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Handling Categorical Data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.gbm" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Nested Cross Validation (Grid Search)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Plot Receiver Operating Characteristics (ROC)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.11" />
+      <item index="0" class="java.lang.String" itemvalue="Python.autocorrect" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LCM of Series of Numbers" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Binary_Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.longest_palindrone" />
+      <item index="4" class="java.lang.String" itemvalue="Python.RomanNumericEncoder" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.11" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Handling Categorical Data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Plot Receiver Operating Characteristics (ROC)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Nested Cross Validation (Grid Search)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.gbm" />
+        <item index="0" class="java.lang.String" itemvalue="Python.RomanNumericEncoder" />
+        <item index="1" class="java.lang.String" itemvalue="Python.longest_palindrone" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Binary_Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LCM of Series of Numbers" />
+        <item index="4" class="java.lang.String" itemvalue="Python.autocorrect" />
       </list>
     </recent_temporary>
   </component>
@@ -460,14 +661,15 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2066" height="1122" extended-state="6" />
-    <editor active="false" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25729838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32171893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45945945" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3625" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2829582" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -483,146 +685,1005 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/insertion_sort.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/multiples_3_5.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/disemvowel.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/disemvowel.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/disemvowel.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/disemvowel.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/quickSort.py</url>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/quickSort.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/temp/encoding.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/temp/encoding.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/temp/encoding.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="278" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Random_Forest.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/8 - Applying Machine Learning to Sentiment Analysis/get_imdb_movie_set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#313#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.24128686">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Extreme_Boosting.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/temp/encoding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37533513">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/CodrWars/Good vs Evil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/CodrWars/DiD I Finish My Sudoku.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="66" selection-start-line="0" selection-start-column="66" selection-end-line="0" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/8 - Applying Machine Learning to Sentiment Analysis/transfm_words_feature_vector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6702413">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/SortingAlgorithms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19571045">
+          <caret line="369" column="17" selection-start-line="369" selection-start-column="17" selection-end-line="369" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/max_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Python-master/HashMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19339623">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/minimum_diff.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44025156">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/Palindrom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.094339624">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/Two Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42295596">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Mathematics/Fundamental/Fibonacci Finding_easy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/count_zero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/CreditCardMask.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/FileRead.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/is_square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/maxElementOfaList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79026216">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/duplicate_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7490637">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Bubble_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37453184">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/quick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2734083">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7059925">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/merge_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52434456">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Sorting/quickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9363296">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/LeetCodeOJ/Reverse String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="164" selection-start-line="9" selection-start-column="164" selection-end-line="9" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/SimilarSmartPhone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/find-three-num-array-to-find-sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/dna_stand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/FirstNonRepeatingChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/HashMap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Find_the_Max_pMean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/4 - Data Preprocessing/FeatureSelection- Randomforest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#389#408#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/reverseString.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/4 - Data Preprocessing/Handling Categorical Data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/README.md">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/traveserMatrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/PlotDecisionRegion.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/stock_price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/5 - Dimensionality Reduction Techniques/PrincipalComponentAnalysis -SKlearn..py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/Need To Study">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17921147">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/PlotDecisionRegion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Is it Leap Year.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33271718">
-          <caret line="9" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/reverseString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70240295">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/DoubleLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62593144">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/HackerRankPrograms/Data Structure/LinkedList/SingleLinkedList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5961252">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/CommonFunctions/commonvariables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.85480946">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Installation and Confugation/How to Install XGBOOST (for windows)">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Extreme_Boosting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#389#408#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Predicting Red Hat Business Value/Classification_Random_Forest.py">
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/get_products_of_all_ints_except_at_index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.022222223">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#294#313#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/array_left_rotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Special Sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Most recurring element in a list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/usage_of_lambda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Making Anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/autocorrect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/LCM of Series of Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/two_joggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RansomNote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/General Programs/DataStructures_Algorithms/Tree/BinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="26" selection-start-line="47" selection-start-column="0" selection-end-line="51" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/longest_palindrone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/RomanNumericEncoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04474273">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>

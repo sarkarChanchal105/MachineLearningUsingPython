@@ -22,3 +22,4 @@ bag=count.fit_transform(docs)
 print(count.vocabulary_)
 print(bag.toarray())
 print(tfidf.fit_transform(count.fit_transform(docs)).toarray())
+
