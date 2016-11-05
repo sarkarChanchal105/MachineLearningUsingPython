@@ -17,3 +17,15 @@ def GCF(x,y):
         return x
 
 
+
+A=[1,2,3,4,5,6]
+
+B=1
+
+for a in A:
+    B=LCM(B,a)
+
+print ("B = ",B)
+
+
+#reduce(LCM,A)

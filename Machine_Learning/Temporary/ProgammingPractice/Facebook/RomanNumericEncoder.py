@@ -8,7 +8,7 @@ def solution(n):
     found=False;i=0;greatest_divider=''
 
     if n==1:
-        result=
+        result=1
 
     while (not found):
         if n/keys[::-1][i]>=1:
