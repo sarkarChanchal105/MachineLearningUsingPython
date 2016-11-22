@@ -66,6 +66,7 @@ def pre_process_data():
 
         ## fill missing values with default: "type -777" . then remove the string "type " from the field so the field can be convtered to interger.
         for i in range(1, 11):
+
             data_frame['char_' + str(i)].fillna('type -777', inplace=True)
             data_frame['char_' + str(i)]= data_frame['char_' + str(i)].str.lstrip('type ').astype(np.int32)
 
