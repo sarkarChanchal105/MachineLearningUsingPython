@@ -1,0 +1,41 @@
+
+Copy the folder : C:\Chanchal\xgboost. The github repo : https://github.com/gatapia/xgboost
+
+git clone https://github.com/gatapia/xgboost.git
+copy the binaries from the repoo
+https://github.com/gatapia/py_ml_utils.git
+
+Now copy the files : xgboost_wrapper.dll (https://github.com/gatapia/xgboost.git) folder : py_ml_utils\lib
+into the folder : xgboost\wrapper (from the repo :https://github.com/gatapia/xgboost.git)
+
+now,
+
+execute python setup.py install
+ been created with Visual Studio Express 2010.
+
+How to Build Windows Version
+=====
+* Open the solution file with Visual Studio
+* Select x64 and Release in build
+	- For 32bit windows or python, try win32 and Release (not fully tested)
+* Rebuild all
+
+This should give you xgboost.exe for CLI version and xgboost_wrapper.dll for python
+
+Use Python Module
+=====
+* After you build the dll, you can install the Python package from the [../wrapper](../wrapper) folder
+
+```
+python setup.py install
+```
+
+And import it as usual
+
+```
+import xgboost as xgb
+```
+
+R Package
+====
+* see [R-package](../R-package) instead
