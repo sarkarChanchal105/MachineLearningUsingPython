@@ -5,6 +5,9 @@ http://yann.lecun.com/exdb/mnist/
 
 import os,struct,numpy as np
 import matplotlib.pyplot as plt
+from tables.table import _index_name_of_
+
+
 def load_mnist(path,kind='train'):
     """
     Load MNIST data from path
@@ -26,16 +29,40 @@ def load_mnist(path,kind='train'):
 
     return images, labels
 
-X_train,y_train = load_mnist('mnist',kind='train')
-X_test,y_test= load_mnist('mnist',kind='t10k')
+
+def show_few_digit():
+    X_train, y_train = load_mnist('../../large-data-files/mnist', kind='train')
+    X_test, y_test = load_mnist('../../large-data-files/mnist', kind='t10k')
+
+    fig,ax = plt.subplots(nrows=2,ncols=5,sharex=True,sharey=True)
+
+    ax=ax.flatten()
+    for i in range(10):
+         img=X_train[y_train==i][0].reshape(28,28)
+         ax[i].imshow(img,cmap='Greys', interpolation='nearest')
+
+    plt.show()
 
 
+def show_same_digit():
+    X_train, y_train = load_mnist('../../large-data-files/mnist', kind='train')
+    X_test, y_test = load_mnist('../../large-data-files/mnist', kind='t10k')
 
-fig,ax = plt.subplots(nrows=2,ncols=5,sharex=True,sharey=True)
+    fig, ax = plt.subplots(nrows=2, ncols=5, sharex=True, sharey=True)
 
-ax=ax.flatten()
-for i in range(10):
-     img=X_train[y_train==i][0].reshape(28,28)
-     ax[i].imshow(img,cmap='Greys', interpolation='nearest')
+    ax = ax.flatten()
+    for i in range(10):
+        img = X_train[y_train == 7][i].reshape(28, 28)
+        ax[i].imshow(img, cmap='Greys', interpolation='nearest')
 
-plt.show()
+    plt.show()
+
+
+def main():
+    show_few_digit()
+    show_same_digit()
+
+
+if __name__ == main():
+    main()
+
