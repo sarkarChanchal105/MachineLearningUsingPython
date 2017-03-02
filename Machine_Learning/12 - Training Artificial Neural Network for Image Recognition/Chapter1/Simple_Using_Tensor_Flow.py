@@ -59,3 +59,4 @@ print (E.eval())
 print (" E and d: ")
 
 print (sess.run([E,d]))
+print (sess.run(E, feed_dict={d:4.}))
