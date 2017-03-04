@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fcbc967-b20c-4930-86f5-981859a18491" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1fcbc967-b20c-4930-86f5-981859a18491" name="Default" comment="" />
     <ignored path="MachineLearningUsingPython.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,13 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Feature Impotance Random Forest Regressor.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Feature Impotance Random Forest Regressor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/House Prices Advanced Regression Techniques/Feature Impotance Random Forest Regressor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="80" lean-forward="false" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+            <state relative-caret-position="2483">
+              <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
               <folding>
                 <element signature="e#494#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomForest_Grid_Search.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Leaf Cassification/RandomForest_Grid_Search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="649">
+              <caret line="148" column="91" lean-forward="true" selection-start-line="148" selection-start-column="91" selection-end-line="148" selection-end-column="91" />
+              <folding>
+                <element signature="e#150#181#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/objectOriented.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/decorator.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/NthFibo().py" />
         <option value="$PROJECT_DIR$/Machine_Learning/Temporary/ProgammingPractice/Facebook/two_joggers.py" />
@@ -139,6 +148,7 @@
         <option value="$PROJECT_DIR$/Machine_Learning/12 - Training Artificial Neural Network for Image Recognition/Chapter1/Logistic_Regression_Model.py" />
         <option value="$PROJECT_DIR$/Machine_Learning/12 - Training Artificial Neural Network for Image Recognition/Chapter 2/Neural_network_hidden_Layer.py" />
         <option value="$PROJECT_DIR$/Kaggle-Competitions/House Prices Advanced Regression Techniques/Feature Impotance Random Forest Regressor.py" />
+        <option value="$PROJECT_DIR$/Kaggle-Competitions/Leaf Cassification/RandomForest_Grid_Search.py" />
       </list>
     </option>
   </component>
@@ -221,6 +231,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Predicting Red Hat Business Value" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MachineLearningUsingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kaggle-Competitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leaf Cassification" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1470,13 +1498,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Temporary/ProgammingPractice/Facebook/11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Temporary/ProgammingPractice/Facebook/array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1818,10 +1839,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/House Prices Advanced Regression Techniques/Feature Impotance Random Forest Regressor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="80" lean-forward="false" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="80" />
+        <state relative-caret-position="2483">
+          <caret line="134" column="12" lean-forward="true" selection-start-line="134" selection-start-column="12" selection-end-line="134" selection-end-column="12" />
           <folding>
             <element signature="e#494#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kaggle-Competitions/Leaf Cassification/RandomForest_Grid_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="148" column="91" lean-forward="true" selection-start-line="148" selection-start-column="91" selection-end-line="148" selection-end-column="91" />
+          <folding>
+            <element signature="e#150#181#0" expanded="true" />
           </folding>
         </state>
       </provider>
